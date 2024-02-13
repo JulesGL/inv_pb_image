@@ -1,0 +1,26 @@
+# Fichiers système et caches
+__pycache__/
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments (Python 3)
+venv/
+env/
+ENV/
+
+# Fichiers de configuration locaux
+*.pyc
+
+# Logs et fichiers temporaires
+*.log
+*.swp
+*.tmp
+
+# Fichiers d'environnement
+.env
+
+# Fichiers de dépendances et répertoires
+/.venv
+/pip-lock.txt
